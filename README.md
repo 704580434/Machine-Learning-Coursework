@@ -1,2 +1,4 @@
-# Machine-Learning-Coursework
-Coursera Practical Machine Learning
+Machine-Learning-Project1
+=========================
+
+Coursera - Prediction Assignment Writeup
